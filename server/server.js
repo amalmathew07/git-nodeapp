@@ -106,7 +106,7 @@ var calcFn = (x) => {
 var count = 0;
 arrFn(arr).then(() => {
     console.log(resItem);
-    console.log("AA");
+    console.log("AAAA");
 })
 
 
